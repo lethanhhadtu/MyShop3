@@ -1,0 +1,6 @@
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.Core\bin\Debug\MyShop.Core.dll
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.Core\bin\Debug\MyShop.Core.pdb
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csprojAssemblyReference.cache
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.Core\obj\Debug\MyShop.Core.csproj.CoreCompileInputs.cache
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.Core\obj\Debug\MyShop.Core.dll
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.Core\obj\Debug\MyShop.Core.pdb

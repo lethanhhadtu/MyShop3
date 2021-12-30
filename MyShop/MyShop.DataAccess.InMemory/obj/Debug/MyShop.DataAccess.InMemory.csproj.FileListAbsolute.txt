@@ -1,0 +1,9 @@
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.DataAccess.InMemory.dll
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.DataAccess.InMemory.pdb
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.Core.dll
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.DataAccess.InMemory\bin\Debug\MyShop.Core.pdb
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csprojAssemblyReference.cache
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CoreCompileInputs.cache
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.csproj.CopyComplete
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.dll
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.DataAccess.InMemory\obj\Debug\MyShop.DataAccess.InMemory.pdb

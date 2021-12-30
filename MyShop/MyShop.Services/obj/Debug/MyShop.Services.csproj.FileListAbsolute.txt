@@ -1,0 +1,9 @@
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.Services\bin\Debug\MyShop.Services.dll
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.Services\bin\Debug\MyShop.Services.pdb
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csprojAssemblyReference.cache
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CoreCompileInputs.cache
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.Services\obj\Debug\MyShop.Services.dll
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.Services\obj\Debug\MyShop.Services.pdb
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.Services\bin\Debug\MyShop.Core.dll
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.Services\bin\Debug\MyShop.Core.pdb
+D:\Dev\Java\MyShop-6DependencyInjection\MyShop-6DependencyInjection\MyShop\MyShop.Services\obj\Debug\MyShop.Services.csproj.CopyComplete
